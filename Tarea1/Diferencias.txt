@@ -1,0 +1,4 @@
+Los lenguajes de programación imperativos son todos aquellos en los que el programador decide el rumbo o flujo que tiene que tomar el programa.
+En cambio en los lenguajes de programación declarativos solo se le da la lóigica sin embargo no se toma control del flujo del programa.
+Un ejemplo de programación imperativa seria cuando utilizamos un for o un if en java.
+Un ejemplo de programación declarativa seria el utilizar funciones.
