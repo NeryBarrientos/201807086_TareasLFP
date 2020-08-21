@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<estudiantes>
+    <estudiante id="1">
+        <nombre>Nery</nombre>
+        <apellido>Barrientos</apellido>
+        <edad>19 años</edad>
+        <residencia>Chiquimula</residencia>
+    </estudiante>
+    <estudiante id="2">
+        <nombre>Edwin</nombre>
+        <apellido>Lopez</apellido>
+        <edad>35 años</edad>
+        <residencia>San Lucas</residencia>
+    </estudiante>
+    <estudiante id="3">
+        <nombre>Jhonatan</nombre>
+        <apellido>Paredes</apellido>
+        <edad>20 años</edad>
+        <residencia>Villa Nueva</residencia>
+    </estudiante>
+    <estudiante id="4">
+        <nombre>Ronald</nombre>
+        <apellido>Mendoza</apellido>
+        <edad>21 años</edad>
+        <residencia>Zona 7</residencia>
+    </estudiante>
+</estudiantes>
